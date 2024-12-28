@@ -6,7 +6,9 @@ About the Project
 
 This MATLAB project was developed during my time as a volunteer at Action for the Needy in Ethiopia (ANE), a local partner of UNHCR and IOM. The program was designed to support organizational operations by managing data records, generating reports, and providing visual representations of key data.
 
-Requirements • MATLAB Version: Ensure MATLAB 2019 or above is installed to run this file successfully.
+Requirements 
+
+MATLAB Version: Ensure MATLAB 2019 or above is installed to run this file successfully.
 
 Usage Instructions
 
