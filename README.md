@@ -1,1 +1,3 @@
-# ANE Mekelle Store Balance using MATLAB Programing-
+# ANE Mekelle Store Balance and Employee Personal datas using MATLAB Programing-
+
+
