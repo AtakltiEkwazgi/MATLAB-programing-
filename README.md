@@ -8,12 +8,12 @@ This MATLAB project was developed during my time as a volunteer at Action for th
 
 Requirements 
 
-MATLAB Version: Ensure MATLAB 2019 or above is installed to run this file successfully.
+MATLAB Version: Ensure MATLAB 2017 or above is installed to run this file successfully.
 
 Usage Instructions
 
 1.Clone or download the repository to your local machine.
 
-2.Open the MATLAB file in MATLAB (2019 or later).
+2.Open the MATLAB file in MATLAB (2017 or later).
 
 3.Execute the file. Some report data includes visual figures; please wait for the figures to load and display.
